@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <author firstName="Franz" lastName="Kafka"/>
+    <title>Das Urteil</title>
+    <publicationYear>1913</publicationYear>
+    <hardcover>yes</hardcover>
+    <keywords>
+        <keyword>Vater</keyword>
+        <keyword>Sohn</keyword>
+        <keyword>Konflikt</keyword>
+    </keywords>
+</book>

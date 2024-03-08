@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <author firstName="Christa" lastName="Wolf"/>
+    <title>
+        Medea
+        Stimmen
+    </title>
+    <publicationYear>1996</publicationYear>
+    <hardcover>no</hardcover>
+    <keywords>
+        <keyword>Mythos</keyword>
+    </keywords>
+</book>

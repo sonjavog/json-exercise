@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <author firstName="Oliver" lastName="Sacks"/>
+    <title>The Man Who Mistook His Wife for a Hat</title>
+    <publicationYear>1985</publicationYear>
+    <hardcover>no</hardcover>
+    <keywords>
+        <keyword>Neurowissenschaft</keyword>
+        <keyword>Gesundheit</keyword>
+    </keywords>
+</book>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <author firstName="Mary" lastName="Shelley"/>
+    <title>Frankenstein</title>
+    <publicationYear>1818</publicationYear>
+    <hardcover>yes</hardcover>
+    <keywords></keywords>
+</book>
